@@ -1,0 +1,77 @@
+"type","acct_num","action_type","currency","transaction_type","transaction_reference","debit","credit"
+Second Presentment,"2100",secondPresentment-dms,EUR,purchase,c90335ff-e59e-4957-bc6a-02fa62265b03,250,0
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,af005b4d-d557-4c54-85b9-ca78cea6c038,0,100
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,"9715cab9-ebed-4c26-adf2-65974d397da6",0,20
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,"8d8d3629-55c7-4e27-be22-48edc3dc493f",0,20
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"9576aa98-7de5-4a25-9979-259956da2b5d",0,100
+Second Presentment,"2100",secondPresentment-dms,GBP,purchase,"6e0ebfa1-5a0c-45cb-8a84-ec92114ec121",108,0
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"231dc79c-57ce-4cc7-9215-a7c44802a7ce",0,100
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,b3190e8e-462c-452a-b511-2c0c32e68ec7,0,20
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,c90335ff-e59e-4957-bc6a-02fa62265b03,0,250
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,e4110324-8dd1-4103-a9cb-56d1f5d86494,0,990
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,eff73240-1470-408d-a26a-7b42e08a591f,0,14
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"58e2b74c-3a4d-490f-bd3e-0fca0be4fbc2",0,25
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,a589cc19-cc7e-44c3-9629-d8f5ae192b85,0,16
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"2dcd2549-b55f-41c3-ab77-4466fc50ac2b",0,25
+Arbitration,"2100",preArbitration-dms,GBP,purchase,"6e0ebfa1-5a0c-45cb-8a84-ec92114ec121",0,108
+Arbitration,"2100",preArbitration-dms,EUR,purchase,e1e29ebc-1592-4d09-9b8e-9c885b0e458d,0,520
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"5292d7f7-e8c6-4f4b-9ac4-02302c86eab3",0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,f958d119-85de-4d26-a19e-436db25184f0,0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"088a7cdf-e007-401d-8a88-6f7f748d466e",0,151
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,d6c8c33c-0ceb-4ea2-8625-4bec96a80915,0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"51b242df-b137-471e-a0aa-3abc2eec8d27",0,20
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"9c40770e-4382-431b-946f-973f1bad420f",0,20
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"7a79e164-0a7f-4b4c-9dcd-cab850308004",0,20
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,e58f3dbf-8cd6-434d-be24-a79c90c842b3,0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"22dbefe5-df67-43c9-b3a4-16e39c0cfe0f",0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,d9a9fcf1-569e-425e-9758-bb80a63109c2,0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,f206e6af-c0f6-4413-b4b6-634dd74aa77d,0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,f6395358-1f2e-4ea6-8542-c1e54f1e864c,0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"3f2e3048-4b03-4903-b00c-00ae462e7670",0,101
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"003113f5-299a-4758-a6fa-2c0dbf7b6645",0,75
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"0d58ffae-eaf7-42e7-982a-5af92f429023",0,100
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,fd33c73b-552d-4266-9679-ba590b8400ea,0,109
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"18ac4c80-eec4-42f7-853d-19a4b0660852",0,100
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,"269d1b29-8a7f-49e8-85d4-2775a8917be1",0,20
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,c97f6838-aa7e-4414-8aab-77ecb5e55853,0,109
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"96c6349f-345a-4915-9fca-6324f50b0a39",0,87
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"2b52a12d-752e-4036-8f1a-6ce8b5fb1b55",0,86
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"431e8363-53fa-48e4-a45f-b39f17e4536a",0,87
+Second Presentment,"2100",secondPresentment-dms,EUR,purchase,e4110324-8dd1-4103-a9cb-56d1f5d86494,990,0
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,"095633ed-402b-4640-9778-ddbc91e0e491",0,30
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,c114b5e2-7bb1-4fd1-9b53-e29322379fe2,0,30
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,"6a734593-3280-4872-b204-7f63d44ca29f",0,25
+Second Presentment,"2100",secondPresentment-dms,EUR,purchase,"3f2e3048-4b03-4903-b00c-00ae462e7670",101,0
+Second Presentment,"2100",secondPresentment-dms,EUR,purchase,"003113f5-299a-4758-a6fa-2c0dbf7b6645",75,0
+Second Presentment,"2100",secondPresentment-dms,EUR,purchase,"0d58ffae-eaf7-42e7-982a-5af92f429023",100,0
+Second Presentment,"2100",secondPresentment-dms,EUR,purchase,fd33c73b-552d-4266-9679-ba590b8400ea,109,0
+Second Presentment,"2100",secondPresentment-dms,EUR,purchase,f6395358-1f2e-4ea6-8542-c1e54f1e864c,100,0
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,abb45ae5-dec1-4724-9da4-d5b876f49cf6,0,25
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"42e37f6f-c724-47f7-bef3-8a93a390b3b7",0,19
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,e7f5f628-1d19-4ff1-981a-5d5373822c8a,0,25
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"91d63fa0-ac8b-4b31-9390-86f152bfdfba",0,25
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"27136efc-ab9b-4502-8b54-837694931c9a",0,29
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"4420c231-3887-44a3-8bfb-2e4c0e4ce9a6",0,26
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"3dd10fff-e0fe-44aa-b158-481bc6948f3c",0,29
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"53646d1f-27f7-45a4-a22c-50c03e040eaa",0,879
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"9f273080-a13b-455b-a35f-d7150ecca8f4",0,879
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,cfe6b21f-1511-441b-8cdb-29324b66619b,0,703
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,d55a9610-b02b-4218-9a0e-099528d5fa24,0,351
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"925cdab5-f2f3-4974-8e4c-24f13744974b",0,292
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"4eeabdc7-f7c2-4c20-ae75-1f5bcdd05266",0,263
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"34206b55-c550-4ec0-87ab-07f29597a0e1",0,15
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,bc76ecf8-8664-47b6-bdba-f0ec0639fc10,0,23
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,"32873fb2-e0fc-4642-acf9-304904e28c0c",0,23
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,ee682f8b-7342-4654-af59-9f121401dc20,0,15
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,"7298d87b-999d-4e87-adea-9fafaf55a83d",0,126
+Collaboration Refund,"2100",firstChargeback-dms,EUR,purchase,b83c1254-0202-4d9e-9204-a536a3336ddf,0,20
+Chargeback,"2100",firstChargeback-dms,EUR,purchase,"05f45eb9-98a8-4357-9bbf-17f4f59922fe",0,19
+Second Presentment,"2100",secondPresentment-dms,GBP,purchase,"96c6349f-345a-4915-9fca-6324f50b0a39",87,0
+Second Presentment,"2100",secondPresentment-dms,GBP,purchase,c97f6838-aa7e-4414-8aab-77ecb5e55853,109,0
+Second Presentment,"2100",secondPresentment-dms,GBP,purchase,"2b52a12d-752e-4036-8f1a-6ce8b5fb1b55",86,0
+Second Presentment,"2100",secondPresentment-dms,GBP,purchase,"431e8363-53fa-48e4-a45f-b39f17e4536a",87,0
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,b98a22ec-cbc0-440f-b327-e5aabcc1f33e,0,84
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"10172f1a-4fd0-45cc-869b-2db15b743b83",0,86
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"73f64e1f-eae8-482d-9ac2-3a44103649a1",0,97
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"7dde8813-ac6b-4e5c-ba2a-eec45fd6f233",0,86
+Chargeback,"2100",firstChargeback-dms,GBP,purchase,"7a0a8fcc-8839-49d2-b081-af4758d0b10b",0,106
